@@ -1,1 +1,1 @@
-is it signed
+Test GPG commit
